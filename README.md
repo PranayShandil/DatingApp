@@ -13,6 +13,7 @@
 ** <dotnet user-secrets init> --- initialize secret storage in the development machine.
 ** <dotnet user-secrets set "Appsettings:Token" "super secret key"> --- "super secret key" is stored at the secret storage in the machine which can be used in json Appsettings:Token in file appsettings.json
 After running this command, we can remove the json ["AppSettings":{"Token":"super secret key"}] from the appsettings.json file and let this file move into source control.
+(This Json content should be placed in the appsettings.json at the top when not using secret key storage.)
 
 **<dotnet user-secrets list> --- show the list of secret storage in local machine.
  
