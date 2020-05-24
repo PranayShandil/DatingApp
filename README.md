@@ -20,6 +20,8 @@ After running this command, we can remove the json ["AppSettings":{"Token":"supe
 
 ** <ng new Project_Name> ---- create a new angular project with name <Project_Name>
 ** <ng serve> ---- run an angular project.
+** <ng add ngx-bootstrap> --- add bootstrap to angular project
+
 
 Steps to use github:
 Install git bash into your local system.
