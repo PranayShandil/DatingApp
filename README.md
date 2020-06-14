@@ -22,6 +22,16 @@ After running this command, we can remove the json ["AppSettings":{"Token":"supe
 ** <ng serve> ---- run an angular project.
 ** <ng add ngx-bootstrap> --- add bootstrap to angular project
 ** Alt + Shift + F --- Format .ts files
+** <npm install JS_NAME> --- install component with the name JS_NAME
+** <npm install alertifyjs> --- installs alertify.js component in the angular application which is used to
+                                show formatted alert popups. 
+** <npm install @auth0/angular-jwt> --- installs tool to check token at the server side without sending the 
+                                        request to client side.
+** prettier tools doesn't works some times even after installing. so use the below link to edit settings.json to make it work: https://www.robinwieruch.de/how-to-use-prettier-vscode 
+** <npm install ngx-bootstrap --save>
+** <npm install bootswatch> --- provides theme to the application https://bootswatch.com/
+
+
 
 Steps to use github:
 Install git bash into your local system.
