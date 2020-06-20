@@ -30,7 +30,10 @@ After running this command, we can remove the json ["AppSettings":{"Token":"supe
 ** prettier tools doesn't works some times even after installing. so use the below link to edit settings.json to make it work: https://www.robinwieruch.de/how-to-use-prettier-vscode 
 ** <npm install ngx-bootstrap --save>
 ** <npm install bootswatch> --- provides theme to the application https://bootswatch.com/
-
+** <Material icon theme> --- this extension provides icons for files in .NET core. To select the theme go to
+                            File > Preferences > File icon theme > now choose your icon theme.
+** <ng g c COMPONENT-NAME> -- create a component in the project. Remember to navigate to the app folder before running this command.
+** <ng g guard auth --SkipTest> -- add guard to the application.
 
 
 Steps to use github:
