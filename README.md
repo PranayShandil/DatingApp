@@ -7,8 +7,10 @@
 ** <Code .> ---- open a .Net core project.
 ** <dotnet run> ---- run .NET core project
 ** <dotnet watch run> ---- run .NET core project. If you save the changes during running of the project, it will rerun. automatically.
-** <dotnet ef migrations add AddedUserEntity> --- add entity framework class to project with name "AddedUserEntity"
+** <dotnet ef migrations add AddedUserEntity> --- update database entity and add entity framework class to project with name "AddedUserEntity"
+** <dotnet ef migrations remove> --- remove the current ef migrations if its not updated in database.
 ** <dotnet ef database update> --- update database schema from the entity framework
+** <dotnet ef database drop> --- drop the database
 ** <dotnet user-secrets> --- see secret storage options
 ** <dotnet user-secrets init> --- initialize secret storage in the development machine.
 ** <dotnet user-secrets set "Appsettings:Token" "super secret key"> --- "super secret key" is stored at the secret storage in the machine which can be used in json Appsettings:Token in file appsettings.json
