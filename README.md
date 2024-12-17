@@ -4,8 +4,8 @@
 
 \*\* We can achieve all the activities of jquery by using pure Angular.
 
-** <dotnet new webapi -n Project_Name> ---- create a new .net core project with name <Project_Name>
-** <Code .> ---- open a .Net core project.
+<dotnet new webapi -n Project_Name> ---- create a new .net core project with name <Project_Name>
+<Code .> ---- open a .Net core project.
 ** <dotnet run> ---- run .NET core project
 ** <dotnet watch run> ---- run .NET core project. If you save the changes during running of the project, it will rerun. automatically.
 ** <dotnet ef migrations add AddedUserEntity> --- update database entity and add entity framework class to project with name "AddedUserEntity"
