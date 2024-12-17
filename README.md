@@ -1,6 +1,6 @@
-### DatingApp
+## DatingApp
 
-## Shortcut commands which can be used in this application. Angular, .NET CORE
+### Shortcut commands which can be used in this application. Angular, .NET CORE
 
 \*\* We can achieve all the activities of jquery by using pure Angular.
 
