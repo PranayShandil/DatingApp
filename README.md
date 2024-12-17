@@ -1,4 +1,4 @@
-*** DatingApp
+### DatingApp
 
 ## Shortcut commands which can be used in this application. Angular, .NET CORE
 
